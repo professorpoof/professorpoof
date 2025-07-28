@@ -40,3 +40,9 @@ Open to creative collabs, pixel work, and side quests.
 
 > Building slow, building true.  
 > — Team PoofSorcery™
+>
+> ---
+## 🔗 Quick Links
+- 🌐 [Live Site](https://celestialpoofdreams.dev)
+- 🧙‍♂️ [Team PoofSorcery™](https://github.com/professorpoof/pixel-poof-dotcom)
+- 🛠️ [Devlog on GitHub Projects](https://github.com/users/professorpoof/projects/4)
