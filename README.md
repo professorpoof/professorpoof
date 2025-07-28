@@ -1,4 +1,4 @@
-# Hey, I'm Professor Poof
+# Hey, Poof here
 
 Creative engineer building interactive web things — with a cozy twist.  
 Focused on pixel art, game loops, and bringing ideas to life one commit at a time.
