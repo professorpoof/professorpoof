@@ -7,9 +7,10 @@ Focused on pixel art, game loops, and bringing ideas to life one commit at a tim
 
 ## 🚧 What I’m Working On
 
-**Celestial Poof Dreams**  
+### Celestial Poof Dreams
+
 A pixel-based site experience built with PixiJS  
-[🌐 celestialpoofdreams.dev](https://celestialpoofdreams.dev)
+[![Live](https://img.shields.io/badge/Live--Site-celestialpoofdreams.dev-4caf50?style=flat-square&logo=firefox)](https://celestialpoofdreams.dev)
 
 - Modular sprite system (built with Aseprite)
 - Animated tiles, audio interactions, and devlogs in the UI
@@ -31,7 +32,7 @@ It’s weird, cozy, and personal — just the way I like it.
 
 ## 🤝 Let’s Connect
 
-I’m always down to collaborate on creative side projects, pixel stories, or just swap ideas.
+Open to creative collabs, pixel work, and side quests.
 
 > Building slow, building true.  
 > — Team PoofSorcery™
