@@ -9,7 +9,8 @@ Focused on pixel art, game loops, and bringing ideas to life one commit at a tim
 
 ### Celestial Poof Dreams
 
-A pixel-based site experience built with PixiJS  
+A pixel-based site experience built with PixiJS
+
 [![Live](https://img.shields.io/badge/Live--Site-celestialpoofdreams.dev-4caf50?style=flat-square&logo=firefox)](https://celestialpoofdreams.dev)
 
 - Modular sprite system (built with Aseprite)
