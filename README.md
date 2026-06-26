@@ -42,7 +42,7 @@ A real-world ecommerce brand — designed, built, and operated solo from sourcin
 - Order fulfillment, shipping, and customer ops
 - CPA-clean expense tracking + ops docs
 
-Built as a real business, not a demo.
+Built with ongoing implementations.
 
 ---
 
