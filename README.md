@@ -2,7 +2,7 @@
 
 **Founder & engineer** · [Pixel & Poof MiniVerse LLC](https://github.com/poofminiverse)
 
-I build and maintain systems behind them — pixel games, Shopify storefronts, Ruby tooling, and AI-assisted dev workflows.
+I build and maintain systems behind the scene — pixel games, Shopify storefronts, Ruby tooling, and AI-assisted dev workflows.
 
 [![Pixel & Poof MiniVerse LLC](https://img.shields.io/badge/Pixel_%26_Poof-MiniVerse_LLC-7c3aed?style=flat-square)](https://github.com/poofminiverse)
 [![Utah](https://img.shields.io/badge/Location-Utah-f97316?style=flat-square&logo=mapbox)](https://github.com/professorpoof)
