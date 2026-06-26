@@ -48,18 +48,18 @@ Built as a real business, not a demo.
 
 ### AI & Agent Engineering
 
-Structured AI-assisted development — Cursor agents, Ruby CLIs, and local LLM review on real PRs.
+Multi-agent development and automated review — custom Ruby tooling, structured GitHub workflows, and on-prem inference on real PRs.
 
 [![Ruby](https://img.shields.io/badge/Ruby-CLI_Tooling-CC342D?style=flat-square&logo=ruby)](https://www.ruby-lang.org/)
-[![Cursor](https://img.shields.io/badge/Cursor-Agent_Workflows-000000?style=flat-square)](https://cursor.com/)
-[![Linear](https://img.shields.io/badge/Linear-Issue_Tracking-5E6AD2?style=flat-square&logo=linear)](https://linear.app/)
+[![Agents](https://img.shields.io/badge/Agents-Multi--repo_Workflows-6366f1?style=flat-square)](https://github.com/poofminiverse)
+[![Issue Tracking](https://img.shields.io/badge/Issue-Tracking-5E6AD2?style=flat-square)](https://github.com/poofminiverse)
 [![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat-square&logo=githubactions)](https://github.com/features/actions)
-[![LM Studio](https://img.shields.io/badge/LM_Studio-Local_LLM_Review-6366f1?style=flat-square)](https://lmstudio.ai/)
+[![PR Review](https://img.shields.io/badge/PR-Automated_Review-10b981?style=flat-square&logo=github)](https://github.com/poofminiverse)
 
-- **Cursor Agent workflows** — multi-repo rules, Linear MCP, session handoff (`bin/handoff`)
-- **Ruby CLI tooling** — `mizuki-gh-push`, `pr-review` / `astraea-review`, persona deploy scripts (internal AI hub)
-- **Local LLM PR review** — LM Studio + LiteLLM + PR-Agent pipeline on Mac
-- **Machine-user GitHub lanes** — structured PR author / QA / merge ritual across org repos
+- **Agent-assisted workflows** — multi-repo rules, issue-tracker integration, session continuity across projects
+- **Ruby CLI tooling** — custom push, review, and deploy scripts wired to an internal persona hub
+- **Automated PR review** — local inference pipeline for real diffs before merge
+- **Machine-user GitHub lanes** — structured author / QA / merge ritual across org repos
 
 ---
 
@@ -77,7 +77,7 @@ Structured AI-assisted development — Cursor agents, Ruby CLIs, and local LLM r
 | **Languages** | Ruby, JavaScript, Liquid |
 | **Creative** | Phaser, PixiJS, Aseprite pipeline |
 | **Infra** | GitHub Actions, Cloudflare Pages, Shopify |
-| **AI** | Cursor Agents, local LLM review, persona/rule deployment |
+| **AI** | Agent-assisted workflows, automated PR review, internal deployment tooling |
 
 ---
 
