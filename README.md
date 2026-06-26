@@ -13,7 +13,7 @@ I build and maintain systems behind the scene — pixel games, Shopify storefron
 
 ## What I'm Building
 
-### Poof MiniVerse Studio
+### Poof MiniVerse Studio 🚧
 
 Cozy pixel-art studio — browser game, landing site, and a monorepo that grows title by title.
 
@@ -23,7 +23,7 @@ Cozy pixel-art studio — browser game, landing site, and a monorepo that grows 
 [![Cloudflare Pages](https://img.shields.io/badge/Deploy-Cloudflare_Pages-f38020?style=flat-square&logo=cloudflare)](https://pages.cloudflare.com/)
 [![CI/CD](https://img.shields.io/badge/CI--CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions)](https://github.com/features/actions)
 
-Studio site at **www.poofminiverse.dev** · playable build at **play.poofminiverse.dev** · org monorepo `miniverse-studio`.
+Studio site will be at **www.poofminiverse.dev** · playable build at **play.poofminiverse.dev** · org monorepo `miniverse-studio`.
 
 ---
 
